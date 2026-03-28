@@ -1,0 +1,1 @@
+Welcome to the AI/ML Assessment Folder. This repository contains all the assignments, problem-solving tasks, and mini-projects completed as part of the Artificial Intelligence and Machine Learning learning journey.
